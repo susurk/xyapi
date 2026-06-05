@@ -176,7 +176,7 @@ curl -fsSL https://xy-update.zhinianboke.com/update.sh | sed 's/\r$//' | bash
 ### 方式二：克隆仓库部署
 
 ```bash
-git clone https://github.com/zhinianboke/xianyu-auto-reply.git
+git clone https://github.com/susurk/xyapi.git
 cd xianyu-auto-reply
 bash deploy.sh
 ```
