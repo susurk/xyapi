@@ -177,7 +177,7 @@ curl -fsSL https://xy-update.zhinianboke.com/update.sh | sed 's/\r$//' | bash
 
 ```bash
 git clone https://github.com/susurk/xyapi.git
-cd xianyu-auto-reply
+cd xyapi
 bash deploy.sh
 ```
 
